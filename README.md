@@ -24,6 +24,16 @@ With this Power installed, your AI assistant can help you:
 3. Click **Add power from GitHub**
 4. Enter: `depot/power-depot`
 
+## Quickstart
+
+Once installed, try asking your AI assistant:
+
+> Use the Depot power to optimize my Dockerfile
+
+> Integrate Depot with my CI workflow for container builds
+
+> Can you determine why my build cache keeps invalidating? Use the Depot power
+
 ## Links
 
 - [Depot website](https://depot.dev)
